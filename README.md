@@ -47,38 +47,32 @@ Computer Science and Engineering undergraduate with practical experience in **AI
 
 ## Projects
 
-### AirWorkspace / AirScript MVP
-*Gesture-controlled AR workspace for Windows*
-
-- Draw, move, and erase digital ink in the air using a webcam and one hand.
-- Built with **Python, PyQt6, OpenCV, MediaPipe Hands, NumPy**.
-- Features color palette, brush modes (Ink/Neon/Marker/Highlighter), fullscreen UI, and gesture recognition.
-- [View Repository](https://github.com/bot041/Air-Workspace)
-
-### Hand Gesture Recognition Using ML
-*Dec 2025 | Python, OpenCV, MediaPipe, Machine Learning*
-
-- Built a real-time sign-language detection system using OpenCV and MediaPipe.
-- Implemented ML models to classify gestures into alphabets/words with low-latency prediction.
-
 ### Real-Time Emotion Detection System
 *May 2026 | Python, OpenCV, HS Emotion, Deep Learning*
 
-- Developed a real-time facial emotion detection system detecting Happy, Sad, Angry, Neutral, Fear, and Surprise.
-- Used Haar Cascade Classifier for face detection and optimized frame processing for live video.
+- Developed a real-time facial emotion detection system that classifies expressions into **Happy, Sad, Angry, Neutral, Fear, and Surprise**.
+- Used a **Haar Cascade Classifier** for face detection and optimized frame processing for smooth live-video inference.
+- Built an end-to-end pipeline for preprocessing video frames, model inference, and visualizing results in real time.
+- [View Repository](https://github.com/bot041/Real-Time-Emotion-Detection)
 
-### More GitHub Projects
+### Sign Language Detection Using Python
+*Dec 2025 | Python, OpenCV, MediaPipe, Machine Learning*
 
-| Repository | Description | Tech |
-|------------|-------------|------|
-| [Air-Workspace](https://github.com/bot041/Air-Workspace) | Gesture-controlled AR workspace for Windows | Python, PyQt6, OpenCV, MediaPipe |
-| [Eyewear-AI-OMS](https://github.com/bot041/Eyewear-AI-OMS) | AI-powered order management system for eyewear fulfillment | Python, Gradient Boosting, Prophet, LLM |
-| [Real-Time-Emotion-Detection](https://github.com/bot041/Real-Time-Emotion-Detection) | Real-time facial emotion recognition | Python, OpenCV, TensorFlow, CNN |
-| [Sign-Language-Detection-Using-Python](https://github.com/bot041/Sign-Language-Detection-Using-Python) | Hand-gesture sign language detection | Python, OpenCV, MediaPipe |
-| [Expense-Tracker-App](https://github.com/bot041/Expense-Tracker-App) | Modern expense tracker for recording and analyzing daily expenses | TypeScript |
-| [Virtual-Health-Assistance-Using-Machine-Learning-And-Flask](https://github.com/bot041/Virtual-Health-Assistance-Using-Machine-Learning-And-Flask) | Disease prediction from symptoms + nearest hospital finder | Python, Flask, ML |
-| [Internet-Group-Management-Protocol](https://github.com/bot041/Internet-Group-Management-Protocol) | IGMP implementation for IPv4 multicast groups | Python |
-| [Library-Management-System-Using-Data-Structures](https://github.com/bot041/Library-Management-System-Using-Data-Structures) | Console-based library management using linked lists | C |
+- Built a real-time sign-language detection system that identifies **hand gestures from images or live camera input**.
+- Leveraged **OpenCV** and **MediaPipe Hands** to extract hand landmarks, then applied an ML model to classify gestures into alphabets/words.
+- Optimized for low-latency prediction, making it suitable for live communication assistance.
+- [View Repository](https://github.com/bot041/Sign-Language-Detection-Using-Python)
+
+### Other Projects
+
+| Project | Description | Repository |
+|---------|-------------|------------|
+| AirWorkspace / AirScript MVP | Gesture-controlled AR workspace for Windows — draw, move, and erase digital ink in the air. | [Air-Workspace](https://github.com/bot041/Air-Workspace) |
+| Eyewear-AI-OMS | AI-powered order management system for eyewear fulfillment. | [Eyewear-AI-OMS](https://github.com/bot041/Eyewear-AI-OMS) |
+| Expense-Tracker-App | Modern expense tracker for recording and analyzing daily expenses. | [Expense-Tracker-App](https://github.com/bot041/Expense-Tracker-App) |
+| Virtual-Health-Assistance-Using-Machine-Learning-And-Flask | Disease prediction from symptoms + nearest hospital finder. | [Virtual-Health-Assistance](https://github.com/bot041/Virtual-Health-Assistance-Using-Machine-Learning-And-Flask) |
+| Internet-Group-Management-Protocol | IGMP implementation for IPv4 multicast groups. | [Internet-Group-Management-Protocol](https://github.com/bot041/Internet-Group-Management-Protocol) |
+| Library-Management-System-Using-Data-Structures | Console-based library management using linked lists. | [Library-Management-System](https://github.com/bot041/Library-Management-System-Using-Data-Structures) |
 
 ---
 
