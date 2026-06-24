@@ -67,6 +67,19 @@ Computer Science and Engineering undergraduate with practical experience in **AI
 - Developed a real-time facial emotion detection system detecting Happy, Sad, Angry, Neutral, Fear, and Surprise.
 - Used Haar Cascade Classifier for face detection and optimized frame processing for live video.
 
+### More GitHub Projects
+
+| Repository | Description | Tech |
+|------------|-------------|------|
+| [Air-Workspace](https://github.com/bot041/Air-Workspace) | Gesture-controlled AR workspace for Windows | Python, PyQt6, OpenCV, MediaPipe |
+| [Eyewear-AI-OMS](https://github.com/bot041/Eyewear-AI-OMS) | AI-powered order management system for eyewear fulfillment | Python, Gradient Boosting, Prophet, LLM |
+| [Real-Time-Emotion-Detection](https://github.com/bot041/Real-Time-Emotion-Detection) | Real-time facial emotion recognition | Python, OpenCV, TensorFlow, CNN |
+| [Sign-Language-Detection-Using-Python](https://github.com/bot041/Sign-Language-Detection-Using-Python) | Hand-gesture sign language detection | Python, OpenCV, MediaPipe |
+| [Expense-Tracker-App](https://github.com/bot041/Expense-Tracker-App) | Modern expense tracker for recording and analyzing daily expenses | TypeScript |
+| [Virtual-Health-Assistance-Using-Machine-Learning-And-Flask](https://github.com/bot041/Virtual-Health-Assistance-Using-Machine-Learning-And-Flask) | Disease prediction from symptoms + nearest hospital finder | Python, Flask, ML |
+| [Internet-Group-Management-Protocol](https://github.com/bot041/Internet-Group-Management-Protocol) | IGMP implementation for IPv4 multicast groups | Python |
+| [Library-Management-System-Using-Data-Structures](https://github.com/bot041/Library-Management-System-Using-Data-Structures) | Console-based library management using linked lists | C |
+
 ---
 
 ## Skills
