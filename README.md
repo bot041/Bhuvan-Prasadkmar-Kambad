@@ -2,7 +2,7 @@
 
 **AI/ML & Agentic AI Enthusiast | Computer Vision | Python Developer**
 
-📞 +91-8217004487 | 📧 [bkambad041@gmail.com](mailto:bkambad041@gmail.com) | 🎂 DOB: 12-May-2004
+📧 [bkambad041@gmail.com](mailto:bkambad041@gmail.com) | 🎂 DOB: 12-May-2004
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin)](https://linkedin.com/in/bhuvan-kambad)  
 [![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/bot041)  
