@@ -1,0 +1,11 @@
+# Virtual environment
+venv/
+
+# Temporary extraction files
+resume_text.txt
+
+# OS / Editor
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
