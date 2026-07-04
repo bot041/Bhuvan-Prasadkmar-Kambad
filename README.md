@@ -109,4 +109,4 @@ Computer Science and Engineering undergraduate with practical experience in **AI
 - 📄 [Download Resume](Bhuvan_Resume.pdf)
 - 📧 [bkambad041@gmail.com](mailto:bkambad041@gmail.com)
 
-*Open to freelance opportunities, internships, and full-time roles in AI/ML, Agentic AI, and Computer Vision.*
+*Open to freelance opportunities and full-time roles in AI/ML, Agentic AI, and Computer Vision.*
