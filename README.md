@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Bhuvan
+# 👋 Hi, I'm BHUVAN PRASADKUMAR KAMBAD
 
 I consider myself a learner. I love exploring different domains — from building intelligent AI agents to creating real-time computer vision systems.
 
